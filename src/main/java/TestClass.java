@@ -1,7 +1,7 @@
 /**
  * Created by SSS on 29.01.2017.
  */
-public class OuterClass {
+class OuterClass {
 
     int field = 1;
 
