@@ -1,0 +1,8 @@
+Абстрактный класс
+Может именть final методы
+
+
+
+
+Интерфейс
+Fields of an interface are always public, static, and final.
